@@ -41,7 +41,7 @@ def url_uploader():
     st.set_option('deprecation.showfileUploaderEncoding', False)
     st.text("Provide Url for Gender Recognition")
     
-    path = st.text_input("Enter image Url to classify...", "https://github.com/Hrushi11/Face-Detection-OpenCV/blob/main/Photos/lady.jpg?raw=true")
+    path = st.text_input("Enter image Url to classify...", "https://github.com/Hrushi11/Gender-Recognition/blob/main/images/lady.jpg?raw=true")
     if path is not None:
         content = requests.get(path).content
 
