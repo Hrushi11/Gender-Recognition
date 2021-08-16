@@ -4,7 +4,7 @@ Dataset contains 27,167 '.jpg' files which 17 678 of them are photos of men face
 E.g. woman0, woman1, woman_2 etc.
 
 Visit the blog here - [Gender Recognition]() <br>
-Visit the live web app here - [Gender Recognition]()
+Visit the live web app here - [Gender Recognition](https://share.streamlit.io/hrushi11/gender-recognition/main/app.py)
 
 ![IMG](https://github.com/Hrushi11/Gender-Recognition/blob/main/images/man_woman.jpg?raw=true)
 
